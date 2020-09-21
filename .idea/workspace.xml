@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17fb0a08-26fd-4476-adf2-b4e10e885538" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hpYOe0poK8A5R0twfcylbBuVYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Taste/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17fb0a08-26fd-4476-adf2-b4e10e885538" name="Default Changelist" comment="" />
+      <created>1600709469768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600709469768</updated>
+      <workItem from="1600709470896" duration="914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600709772239">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1600709772239" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1600710088796">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1600710088796" />
+    <state x="660" y="252" key="run.anything.popup" timestamp="1600710012357">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1600710012357" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1600710082678">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1600710082678" />
+  </component>
+</project>
